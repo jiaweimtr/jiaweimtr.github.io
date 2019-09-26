@@ -13,3 +13,20 @@ I am a Ph.D. candidate in the [Vision and Machine Learning Lab](http://vml.cs.sf
 My focus is on statistical machine learning and deep generative models, especially automatic structured representation learning by combining deep learning, probabilistic graphical models and information theory. I'm also interested in applying such model to practical scenarios including computer vision and financial applications.
 
 
+
+# News
+* Serving as local chair for 2nd Symposium on Advances in Approximate Bayesian Inference (AABI). Welcome to attend!
+* Joining Borealis AI as a research engineer starting October.
+* One paper **accepted** to MDALC workshop as spotlight at ICCV '19.
+* Two papers **accepted** to ICCV '19.
+* One paper **accepted** to CVPR '19! See you in Long Beach!
+* Presenting my ICLR paper at Vector Research Symposium, see you in Toronto!
+* One paper **accepted** to ICLR '19! See you in New Orleans!
+* Presenting two papers at NeurIPS workshops, see you in Montreal!
+* One paper **accepted** to Bayesian Deep Learning Workshop (NeurIPS '18)!
+* One paper **accepted** to Symposium on Advances in Approximate Bayesian Inference!
+* Our ECCV paper VideoVAE  is featured in the ECCV Daily News!
+* **accepted** a research internship position at Borealis AI starting from September. 
+* I gave a poster presentation on VideoVAE at Vector Institute DLRL Summer School in University of Toronto.
+* I review for CVPR, ICCV, NeurIPS, WACV, ICML, TVC, IJCV.
+* March - November 2017, accepted a research internship position in Disney Research Pittsburgh.
