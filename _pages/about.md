@@ -15,7 +15,7 @@ My focus is on statistical machine learning and deep generative models, especial
 
 
 # News
-* Serving as local chair for 2nd Symposium on Advances in Approximate Bayesian Inference (AABI). Welcome to attend!
+* Serving as local chair for 2nd Symposium on Advances in [Approximate Bayesian Inference (AABI)](http://approximateinference.org). Welcome to attend!
 * Joining Borealis AI as a research engineer starting October.
 * One paper **accepted** to MDALC workshop as spotlight at ICCV '19.
 * Two papers **accepted** to ICCV '19.
