@@ -8,7 +8,7 @@ author_profile: true
 ___
 
 **LayoutVAE: Stochastic Scene Layout Generation from a Label Set** [[pdf]](https://arxiv.org/pdf/1907.10719.pdf)   
-*Akash Abdu Jyothi, Thibaut Durand, Jiawei He,  Leonid Sigal, Greg Mori*   
+*Akash Abdu Jyothi, Thibaut Durand, __Jiawei He__,  Leonid Sigal, Greg Mori*   
 International Conference on Computer Vision (ICCV) '19 
 
 
