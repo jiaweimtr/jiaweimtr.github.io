@@ -51,7 +51,7 @@ Symposium on Advances in Approximate Bayesian Inference (AABI) '18
 
 
 
-**Variational Latent Dependency Learning** [[PDF]](../files/papers/2019/variational_latent_dependency_learning/variational_latent_dependency_learning_workshop.pdf)   
+**Variational Latent Dependency Learning** [[pdf]](../files/papers/2019/variational_latent_dependency_learning/variational_latent_dependency_learning_workshop.pdf)   
 *Jiawei He, Yu Gong, Joseph Marino, Greg Mori, Andreas Lehrmann*  
 NeurIPS 2018 Workshop on Bayesian Deep Learning  
 
