@@ -40,7 +40,7 @@ Winter Conference on Applications of Computer Vision (WACV) '18
 ## Workshop Publications & Manuscripts
 ___
 
-**Object Grounding via Iterative Context Reasoning** __*[coming soon]*__  
+**Object Grounding via Iterative Context Reasoning** *[coming soon]*
 *Lei Chen, Mengyao Zhai, Jiawei He, Greg Mori*  
 Multi-Discipline Approach for Learning Concepts (ICCV '19 Workshop)
 
