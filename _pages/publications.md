@@ -27,7 +27,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR) '19
 International Conference on Learning Representations (ICLR) '19 
 
 
-**Probabilistic Video Generation using Holistic Attribute Control** [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf) 
+**Probabilistic Video Generation using Holistic Attribute Control** [[pdf]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiawei_He_Probabilistic_Video_Generation_ECCV_2018_paper.pdf)     
 *Jiawei He, Andreas Lehrmann, Joseph Marino, Greg Mori, Leonid Sigal*  
 European Conference on Computer Vision (ECCV) '18  
 
