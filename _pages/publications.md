@@ -8,17 +8,17 @@ author_profile: true
 ___
 
 **LayoutVAE: Stochastic Scene Layout Generation from a Label Set**   
-*Akash Abdu Jyothi, Thibaut Durand, Jiawei He,  Leonid Sigal, Greg Mori*
+*Akash Abdu Jyothi, Thibaut Durand, Jiawei He,  Leonid Sigal, Greg Mori*   
 International Conference on Computer Vision (ICCV) '19 
 
 
 **LifelongGAN: Continual Learning for Conditional Image Generation**  
-*Mengyao Zhai, Lei Chen, Fred Tung, Jiawei He,  Megha Nawhal, Greg Mori*
+*Mengyao Zhai, Lei Chen, Fred Tung, Jiawei He,  Megha Nawhal, Greg Mori*  
 International Conference on Computer Vision (ICCV) '19 
 
 
 **A Variational-Autoencoder Model for Stochastic Point Processes**    
-*Nazanin Mehrasa, Akash Abdu Jyothi, Thibaut Durand, Jiawei He,  Leonid Sigal, Greg Mori*
+*Nazanin Mehrasa, Akash Abdu Jyothi, Thibaut Durand, Jiawei He,  Leonid Sigal, Greg Mori*  
 Conference on Computer Vision and Pattern Recognition (CVPR) '19 
 
 
@@ -33,7 +33,7 @@ European Conference on Computer Vision (ECCV) '18
 [arXiv](https://arxiv.org/abs/1803.08085)
 
 **Generic Tubelet Proposals for Action Localization**  
-*Jiawei He, Moustafa Ibrahim, Zhiwei Deng, Greg Mori*
+*Jiawei He, Moustafa Ibrahim, Zhiwei Deng, Greg Mori*   
 Winter Conference on Applications of Computer Vision (WACV) '18
 
 
@@ -41,12 +41,12 @@ Winter Conference on Applications of Computer Vision (WACV) '18
 ___
 
 **Object Grounding via Iterative Context Reasoning**  
-*Lei Chen, Mengyao Zhai, Jiawei He, Greg Mori*
+*Lei Chen, Mengyao Zhai, Jiawei He, Greg Mori*  
 Multi-Discipline Approach for Learning Concepts (ICCV '19 Workshop)
 
 
 **Informed Priors for Deep Representation Learning**  
-*Judith Butepage, Jiawei He, Cheng Zhang, Leonid Sigal, Greg Mori, Stephan Mandt*
+*Judith Butepage, Jiawei He, Cheng Zhang, Leonid Sigal, Greg Mori, Stephan Mandt*   
 Symposium on Advances in Approximate Bayesian Inference (AABI) '18 
 
 
