@@ -29,7 +29,7 @@ International Conference on Learning Representations (ICLR) '19
 
 **Probabilistic Video Generation using Holistic Attribute Control**  
 *Jiawei He, Andreas Lehrmann, Joseph Marino, Greg Mori, Leonid Sigal*  
-ECCV 2018  
+European Conference on Computer Vision (ECCV) '18  
 [arXiv](https://arxiv.org/abs/1803.08085)
 
 **Generic Tubelet Proposals for Action Localization**
