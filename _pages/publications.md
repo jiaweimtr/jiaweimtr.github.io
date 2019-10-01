@@ -40,6 +40,10 @@ Winter Conference on Applications of Computer Vision (WACV) '18
 ## Workshop Publications & Manuscripts
 ___
 
+**Point Process Flows** *[coming soon]*   
+*Nazanin Mehrasa, Ruizhi Deng, __Jiawei He__, Bo Chang, Thibaut Durand, Mohamed Osama Ahmed, Marcus Brubaker, Greg Mori*  
+Learning with Temporal Point Processes (NeurIPS '19 Workshop)
+
 **Object Grounding via Iterative Context Reasoning** *[coming soon]*   
 *Lei Chen, Mengyao Zhai, __Jiawei He__, Greg Mori*  
 Multi-Discipline Approach for Learning Concepts (ICCV '19 Workshop)
