@@ -23,7 +23,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR) '19
 
 
 **Variational Autoencoders with Jointly Optimized Latent Dependency Structure** [[pdf]](../files/papers/2019/variational_latent_dependency_learning/iclr_2019_paper.pdf)  
-*$__Jiawei He__, Yu Gong, Joseph Marino, Greg Mori, Andreas Lehrmann*  
+*__Jiawei He__, Yu Gong, Joseph Marino, Greg Mori, Andreas Lehrmann*  
 International Conference on Learning Representations (ICLR) '19 
 
 
