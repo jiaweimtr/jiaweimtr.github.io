@@ -48,15 +48,12 @@ Learning with Temporal Point Processes (NeurIPS '19 Workshop)
 *Lei Chen, Mengyao Zhai, __Jiawei He__, Greg Mori*  
 Multi-Discipline Approach for Learning Concepts (ICCV '19 Workshop)
 
-
 **Informed Priors for Deep Representation Learning** [[pdf]](http://approximateinference.org/2018/accepted/ButepageEtAl2018.pdf)  
 *Judith Butepage, __Jiawei He__, Cheng Zhang, Leonid Sigal, Greg Mori, Stephan Mandt*   
 Symposium on Advances in Approximate Bayesian Inference (AABI) '18 
 
-
-
 **Variational Latent Dependency Learning** [[pdf]](../files/papers/2019/variational_latent_dependency_learning/variational_latent_dependency_learning_workshop.pdf)   
 *__Jiawei He__, Yu Gong, Joseph Marino, Greg Mori, Andreas Lehrmann*  
-NeurIPS 2018 Workshop on Bayesian Deep Learning  
+Bayesian Deep Learning (NeurIPS '18 Workshop)
 
 
