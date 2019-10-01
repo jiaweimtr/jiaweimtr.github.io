@@ -15,6 +15,7 @@ My focus is on statistical machine learning and deep generative models, especial
 
 
 # News
+* One paper **accepted** to *Learning with Temporal Point Processes* workshop at NeurIPS '19. 
 * Serving as local chair for 2nd Symposium on Advances in [Approximate Bayesian Inference (AABI)](http://approximateinference.org). Welcome to attend!
 * Joining Borealis AI as a research engineer starting October.
 * One paper **accepted** to MDALC workshop as spotlight at ICCV '19.
@@ -24,9 +25,7 @@ My focus is on statistical machine learning and deep generative models, especial
 * One paper **accepted** to ICLR '19! See you in New Orleans!
 * Presenting two papers at NeurIPS workshops, see you in Montreal!
 * One paper **accepted** to Bayesian Deep Learning Workshop (NeurIPS '18)!
-* One paper **accepted** to Symposium on Advances in Approximate Bayesian Inference!
 * Our ECCV paper VideoVAE  is featured in the ECCV Daily News!
-* **accepted** a research internship position at Borealis AI starting from September. 
 * I gave a poster presentation on VideoVAE at Vector Institute DLRL Summer School in University of Toronto.
 * I review for CVPR, ICCV, NeurIPS, WACV, ICML, TVC, IJCV.
 * March - November 2017, accepted a research internship position in Disney Research Pittsburgh.
