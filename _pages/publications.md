@@ -41,7 +41,7 @@ Winter Conference on Applications of Computer Vision (WACV) '18
 ___
 
 **Point Process Flows** *[coming soon]*   
-*Nazanin Mehrasa, Ruizhi Deng, __Jiawei He__, Bo Chang, Thibaut Durand, Mohamed Osama Ahmed, Marcus Brubaker, Greg Mori*  
+*Nazanin Mehrasa, Ruizhi Deng, Mohamed Osama Ahmed, Bo Chang,  __Jiawei He__, Thibaut Durand, Marcus Brubaker, Greg Mori*  
 Learning with Temporal Point Processes (NeurIPS '19 Workshop)
 
 **Object Grounding via Iterative Context Reasoning** *[coming soon]*   
