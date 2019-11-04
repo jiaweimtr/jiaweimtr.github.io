@@ -44,7 +44,7 @@ ___
 *Nazanin Mehrasa, Ruizhi Deng, Mohamed Osama Ahmed, Bo Chang,  __Jiawei He__, Thibaut Durand, Marcus Brubaker, Greg Mori*  
 Learning with Temporal Point Processes (NeurIPS '19 Workshop)
 
-**Object Grounding via Iterative Context Reasoning** [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/MDALC/Chen_Object_Grounding_via_Iterative_Context_Reasoning_ICCVW_2019_paper.pdf)
+**Object Grounding via Iterative Context Reasoning** [[pdf]](http://openaccess.thecvf.com/content_ICCVW_2019/papers/MDALC/Chen_Object_Grounding_via_Iterative_Context_Reasoning_ICCVW_2019_paper.pdf)    
 *Lei Chen, Mengyao Zhai, __Jiawei He__, Greg Mori*  
 Multi-Discipline Approach for Learning Concepts (ICCV '19 Workshop)
 
