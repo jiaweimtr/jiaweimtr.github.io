@@ -40,6 +40,18 @@ Winter Conference on Applications of Computer Vision (WACV) '18
 ## Workshop Publications & Manuscripts
 ___
 
+**Arbitrarily-conditioned Data Imputation** 
+*Micael Carvalho, Thibaut Durand,  __Jiawei He__, Nazanin Mehrasa, Greg Mori*  
+2nd Symposium on Advances in Approximate Bayesian Inference (AABI)
+
+**Improving Sequential Latent Variable Models with Autoregressive Flows** 
+*Joseph Marino, Lei Chen, __Jiawei He__, Stephan Mandt*  
+2nd Symposium on Advances in Approximate Bayesian Inference (AABI)
+
+**Variational Selective Autoencoders** 
+*Yu Gong, Hossein Hajimirsadeghi, __Jiawei He__, Megha Nawhal, Thibaut Durand, Greg Mori*  
+2nd Symposium on Advances in Approximate Bayesian Inference (AABI)
+
 **Point Process Flows** [[pdf]](https://arxiv.org/pdf/1910.08281.pdf)  
 *Nazanin Mehrasa, Ruizhi Deng, Mohamed Osama Ahmed, Bo Chang,  __Jiawei He__, Thibaut Durand, Marcus Brubaker, Greg Mori*  
 Learning with Temporal Point Processes (NeurIPS '19 Workshop)
