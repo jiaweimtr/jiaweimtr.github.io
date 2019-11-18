@@ -15,7 +15,7 @@ My focus is on statistical machine learning and deep generative models, especial
 
 
 # News
-* Three papers **accepted** to *2nd Symposium on Advances in Approximate Bayesian Inference (AABI)*.
+* Three papers **accepted** to *2nd Symposium on Advances in Approximate Bayesian Inference (AABI)*, one as **spotlight**!
 * One paper **accepted** to *Learning with Temporal Point Processes* workshop at NeurIPS '19. 
 * Serving as local chair for 2nd Symposium on Advances in [Approximate Bayesian Inference (AABI)](http://approximateinference.org). Welcome to attend!
 * Joining Borealis AI as a research engineer starting October.
