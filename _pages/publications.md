@@ -44,7 +44,7 @@ ___
 *Micael Carvalho, Thibaut Durand,  __Jiawei He__, Nazanin Mehrasa, Greg Mori*  
 2nd Symposium on Advances in Approximate Bayesian Inference (AABI)
 
-**Improving Sequential Latent Variable Models with Autoregressive Flows**  
+**Improving Sequential Latent Variable Models with Autoregressive Flows**  *(spotlight)*  
 *Joseph Marino, Lei Chen, __Jiawei He__, Stephan Mandt*  
 2nd Symposium on Advances in Approximate Bayesian Inference (AABI)
 
