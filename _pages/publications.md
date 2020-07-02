@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Conference Publications
 ___
-**Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation**
+**Piggyback GAN: Efficient Lifelong Learning for Image Conditioned Generation**   
 *Mengyao Zhai, Lei Chen, __Jiawei He__,  Fred Tung, Megha Nawhal, Greg Mori*   
 European Conference on Computer Vision (CCCV) '20
 
