@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the [Vision and Machine Learning Lab](http://vml.cs.sfu.ca) at Simon Fraser University (SFU) and a Research Engineer at [Borealis AI](https://www.borealisai.com/en/). I am supervised by Professor [Greg Mori](https://www.cs.sfu.ca/~mori/). I also work closely with Professor [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/index.html) (UBC), Professor [Stephan Mandt](http://www.stephanmandt.com) (UCI), Dr. [Andreas Lehrmann](https://scholar.google.de/citations?user=DM49PecAAAAJ&hl=en)(Borealis AI), Dr. [Cheng Zhang](https://cheng-zhang.org) (Microsoft Research) and [Joe Marino](https://joelouismarino.github.io) (CalTech).
-
-My focus is on statistical machine learning and deep generative models, especially automatic structured representation learning by combining deep learning, probabilistic graphical models and information theory. I'm also interested in applying such model to practical scenarios including computer vision and financial applications.
+I am a Research Engineer at [Borealis AI](https://www.borealisai.com/en/). My work focuses on time series analysis in financial applications.
+In addition to time-series analysis, I'm also interested in deep generative models, especially automatic structured representation learning by combining deep learning, probabilistic graphical models and information theory.
 
 
 
 # News
-* We have summer internship vacancies focusing on _structured representation learning_ and _graph convolutional networks_. If you are interested, please email me with your CV.
+* One paper **accepted** to *European conference on Computer Vision (ECCV)2020*. See you (virtually) in UK!
 * Three papers **accepted** to *2nd Symposium on Advances in Approximate Bayesian Inference (AABI)*, one as **spotlight**!
 * One paper **accepted** to *Learning with Temporal Point Processes* workshop at NeurIPS '19. 
 * Serving as local chair for 2nd Symposium on Advances in [Approximate Bayesian Inference (AABI)](http://approximateinference.org). Welcome to attend!
