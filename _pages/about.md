@@ -15,6 +15,7 @@ In addition to time-series analysis, I'm also interested in deep generative mode
 
 # News
 * I am promoted to **researcher**!
+* I review for CVPR, ICCV, NeurIPS, WACV, ICML, TVC, IJCV, ICLR, etc.
 * One paper **accepted** to *European conference on Computer Vision (ECCV)2020*. See you (virtually) in UK!
 * Three papers **accepted** to *2nd Symposium on Advances in Approximate Bayesian Inference (AABI)*, one as **spotlight**!
 * One paper **accepted** to *Learning with Temporal Point Processes* workshop at NeurIPS '19. 
@@ -29,5 +30,4 @@ In addition to time-series analysis, I'm also interested in deep generative mode
 * One paper **accepted** to Bayesian Deep Learning Workshop (NeurIPS '18)!
 * Our ECCV paper VideoVAE  is featured in the ECCV Daily News!
 * I gave a poster presentation on VideoVAE at Vector Institute DLRL Summer School in University of Toronto.
-* I review for CVPR, ICCV, NeurIPS, WACV, ICML, TVC, IJCV, ICLR, etc.
 * March - November 2017, accepted a research internship position in Disney Research Pittsburgh.
