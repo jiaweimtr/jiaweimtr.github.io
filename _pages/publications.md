@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Conference Publications
 ___
-**Variational Selective Autoencoder: Learning from Partially-Observed Heterogeneous Data**
+**Variational Selective Autoencoder: Learning from Partially-Observed Heterogeneous Data**  
 *Yu Gong, Hossein Hajimirsadighi, __Jiawei He__, Thibaut Durand, Greg Mori*
 International Conference on Artificial Intelligence and Statistics (AISTATS) ‘21
 
