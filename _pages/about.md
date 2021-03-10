@@ -14,7 +14,7 @@ In addition to time-series analysis, I'm also interested in deep generative mode
 
 
 # News
-* One paper **accepted** to *International Conference on Artificial Intelligence and Statistics (AISTATS) '21*.
+* One paper **accepted** to *International Conference on Artificial Intelligence and Statistics (AISTATS) '21!. Check out the publication page for more details.
 * I am promoted to **researcher**!
 * I review for CVPR, ICCV, NeurIPS, WACV, ICML, TVC, IJCV, ICLR, etc.
 * One paper **accepted** to *European conference on Computer Vision (ECCV) '20*. See you (virtually) in UK!
