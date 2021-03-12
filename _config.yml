@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eric Jiawei He"
-  avatar           : "../images/eric.JPG"
+  avatar           : "../images/Eric.JPG"
   bio              : "Machine Learning Researcher"
   location         :
   employer         : "Borealis AI"
