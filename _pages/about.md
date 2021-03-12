@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Researcher at [Borealis AI](https://www.borealisai.com/en/). My work focuses on time series analysis in financial applications.
+I am a Machine Learning Researcher at [Borealis AI](https://www.borealisai.com/en/). My work focuses on time series analysis in financial applications.
 In addition to time-series analysis, I'm also interested in deep generative models, especially automatic structured representation learning by combining deep learning, probabilistic graphical models and information theory. 
 
 Before joining Borealis AI, I completed my Ph.D. study under Dr. Greg Mori's supervision from Simon Fraser University (Canada); my Master of Engineering study under Dr. Kai-Kuang Ma's supervision from Nanyang Technological University (Singapore); and my Bachelor of Engineering from Zhejiang University (China).
